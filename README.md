@@ -13,7 +13,8 @@ I am a Bachelor of Information Technology student in Xavier University Ateneo de
 - 📫 How to reach me: <20230027462@my.xu.edu.ph>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
+I am a student so this is what i currently use to code my projects.
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,vscode,codepen,eclipse)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 -  Learning JavaScript
