@@ -23,6 +23,12 @@ I am a student so this is what i currently use to code my projects.
   - Studying about different data structures and algorithims
   - Exploring Native Script and Flutter
 
+## 🔎 FUN FACT
+  I am allergic to dust and any kind of powders.
+  I like to cook everyday.
+  I like random/general knowledge.
+
+
 ## 🏆 Achievements
 - An ongoing endeavor
 
