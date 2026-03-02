@@ -1,7 +1,6 @@
 # Hi, I'm <ChrisMarione>! 👋
 
 I am a Bachelor of Information Technology student in Xavier University Ateneo de Cagayan. Courageously pushing through the hardship of being an IT student. Finding ways to elevate my knowledge for my own sanity to be able to compete in the scene.
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University Ateneo de Cagayan .
